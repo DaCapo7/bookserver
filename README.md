@@ -5,9 +5,9 @@ Instructions :
 Set up your calibre librairy in a folder called "Books"
 run code
 
-If you don't have calibre, the structure is:
+If you don't have calibre, the structure is:/n
 
-Books
---author
-----book1.epub
-----book2.mobi
+Books<br>
+--author<br>
+----book1.epub<br>
+----book2.mobi<br>
