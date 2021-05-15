@@ -5,7 +5,7 @@ Instructions :
 Set up your calibre librairy in a folder called "Books"
 run code
 
-If you don't have calibre, the structure is:/n
+If you don't have calibre, the structure is:<br>
 
 Books<br>
 --author<br>
